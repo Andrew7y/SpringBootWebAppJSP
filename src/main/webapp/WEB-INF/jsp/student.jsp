@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="std_styles.css">
 </head>
 <body>
-<h1 class="page-title">My Contact List</h1>
+<h1 class="page-title">My Contact List(JSP)</h1>
 <table class="contact-table">
     <thead>
     <tr>
